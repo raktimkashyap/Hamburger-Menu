@@ -1,2 +1,2 @@
 # Hamburger-Menu
-Am animated Hamburger Menu Icon developed with HTML, CSS and  JavaScript.
+Hamburger Menu Icon animation with HTML and CSS
